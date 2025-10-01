@@ -92,8 +92,6 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            
-
             <Nav.Item className="fork-btn">
               <Button
                 href="https://github.com/UrvishThummar/Portfolio-master"
